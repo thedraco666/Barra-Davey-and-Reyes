@@ -1,0 +1,75 @@
+body {
+  background-color: orange;
+  opacity: 0.6;
+  
+}
+header{
+  background-color: orange;
+  text-align: center;
+  font-size: 32px;
+  font-family: arial;
+  font-style:oblique;
+}
+input{
+  background-color: blue;
+  border-radius: 50%;
+  border-color: lightgrey;
+  border-width: 3px;
+  color: white;
+  font-size: 20px;
+}
+nav{
+  background-color: yellow;
+}
+#caja1 {
+  text-align:left;
+  opacity: 0.6;
+  height: 800px;
+  width: 1225px;
+  float:right;
+  border-color: lightgrey;
+  border-width: 30px;
+  font-family: helvetica;
+  font-size: 32px;
+}
+#caja2 {
+  text-align: center;
+  background-image: url("calafate2.jpg");
+  opacity: 0.6;
+  float:left;
+  font-size: 17px;
+  width: auto;
+}
+#caja3 {
+  text-align: center;
+  background-color: orange;
+  
+  float:none;
+  width: auto;
+}
+.clearfix{
+  clear:both;
+}
+footer{
+  
+  font-size: 35px;
+  text-align: center;
+  text-transform:capitalize;
+  text-overflow:ellipsis;
+  font-stretch:expanded;
+  color: yellow;
+}
+aside {
+  background-color: peru;
+}
+aside {
+         
+  float: left;
+  background-color: #bd9a7a;
+  width: 100px;
+  height: 800px;
+  border: 20px white;
+  padding: 50px;
+  margin: 20px;
+  opacity: 0.6;
+}
